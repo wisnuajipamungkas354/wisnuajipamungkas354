@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Backend-Focused Web Developer
 -------------------------------
 
-I’m a \*\*Web Developer\*\* with a strong focus on \*\*backend development\*\*, especially using \*\*Laravel\*\*.
+I’m a <strong>Web Developer</strong> with a strong focus on <strong>backend development</strong>, especially using <strong>Laravel</strong>.
 
-I have hands-on experience building \*\*internal systems, information systems, and business applications\*\*, including projects developed during my internship and academic work.
+I have hands-on experience building <strong>internal systems, information systems, and business applications</strong>, including projects developed during my internship and academic work.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [wisnuajipamungkas354@gmail.com](mailto:wisnuajipamungkas354@gmail.com)
