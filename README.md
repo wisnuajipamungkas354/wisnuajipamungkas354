@@ -26,5 +26,9 @@ I have hands-on experience building **internal systems, information systems, and
 ### Badges
 
 <b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisnuajipamungkas354&show_icons=true&locale=en&layout=compact" alt="wisnuajipamungkas354" /></p>
 
-<a href="http://www.github.com/wisnuajipamungkas354"><img src="https://github-readme-stats.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wisnuajipamungkas354's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&locale=en" alt="wisnuajipamungkas354" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisnuajipamungkas354&" alt="wisnuajipamungkas354" /></p>
+>
