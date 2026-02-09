@@ -38,7 +38,7 @@ I have hands-on experience building **internal systems, information systems, and
 
 ### 📊 My GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/wisnuajipamungkas354?template=classic&languages=1&achievements=1)
+![Profile Views](https://komarev.com/ghpvc/?username=wisnuajipamungkas354)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&theme=tokyonight)
 
