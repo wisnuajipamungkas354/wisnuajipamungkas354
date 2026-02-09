@@ -38,7 +38,7 @@ I have hands-on experience building **internal systems, information systems, and
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wisnuajipamungkas354&layout=compact)
+![Metrics](https://metrics.lecoq.io/wisnuajipamungkas354?template=classic&languages=1&achievements=1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&theme=tokyonight)
 
