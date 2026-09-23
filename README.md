@@ -40,6 +40,10 @@ I have hands-on experience building **internal systems, information systems, and
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wisnuajipamungkas354)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wisnuajipamungkas354&theme=tokyonight)
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisnuajipamungkas354&theme=tokyonight)](https://git.io/streak-stats)
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=wisnuajipamungkas354&theme=tokyonight&hide_border=true&background=1a1b27" height="200" alt="streak graph" />
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=wisnuajipamungkas354&show_icons=true&include_all_commits=true&theme=tokyonight)
